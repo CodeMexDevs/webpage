@@ -1,0 +1,20 @@
+seguridad en GCP
+
+
+Como llegamos al sistema
+Donde esta hosteado 
+Direccionamiento publico
+
+Checar DNS, evitar DDO`s, inyeccion de codigo
+
+Terminar las sesiones
+
+Una vez hosteado el sitio, ya es vulnerable, pasamos por uat a prod
+
+TOP10 OWASP
+Emitido por una entidad certificadora valida OWASP ZAP, NIST
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-161r1-upd1.pdf
+https://owasp.org/Top10/A01_2021-Broken_Access_Control/
+https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf
+
+
